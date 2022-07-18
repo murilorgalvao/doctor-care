@@ -1,10 +1,8 @@
 <h1>🚀 Doctor Care</h1>
 
 <ul>
-    <li>
-        <a href="#-tecnologias">Tecnologias</a>
-        <a href="#-projeto">Projeto</a>
-    </li>
+    <li><a href="#-tecnologias">Tecnologias</a></li>
+    <li><a href="#-projeto">Projeto</a></li>
 </ul>
 
 <br>

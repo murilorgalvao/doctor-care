@@ -1,19 +1,26 @@
 <h1>🚀 Doctor Care</h1>
 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
 <br>
 
-<h2>⭐ Objetivos: </h2>
-<p>Esse projeto foi desenvolvido com o objetivo de aplicar meus conhecimentos e aprimorar as minhas habilidades</p>
+## 🚀 Tecnologias
 
-<br>
+<!--- Ex: HTML, CSS, JavaScript, Node.Js, ReactJS, ReactNative --->
 
-<h2>🔬 Tecnologias: </h2>
-<!--- Ex: HTML, CSS, JavaScript, Node.Js, ReactJS, ReactNative ---> 
-<ul>
- <li>HTML</li>
- <li>CSS</li>
- <li>JavaScript</li>
-</ul>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- [ScrollReveal](https://scrollrevealjs.org/)
+
+## 💻 Projeto
+
+DoctorCare é um site de agência em formato One Page, responsivo, para uso em diversos tipos de micros, pequenas e médias empresas. Ele contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços e Footer. Você pode acessá-lo por [esse link](https://murilorgalvao.github.io/doctor-care/).
 
 <br>
 

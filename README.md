@@ -1,9 +1,11 @@
 <h1>🚀 Doctor Care</h1>
 
-<p>
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
-</p>
+<ul>
+    <li>
+        <a href="#-tecnologias">Tecnologias</a>
+        <a href="#-projeto">Projeto</a>
+    </li>
+</ul>
 
 <br>
 
@@ -21,10 +23,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 DoctorCare é um site de agência em formato One Page, responsivo, para uso em diversos tipos de micros, pequenas e médias empresas. Ele contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços e Footer. Você pode acessá-lo por [esse link](https://murilorgalvao.github.io/doctor-care/).
-
-<br>
-
-<h2>Links</h2>
-<ul>
- <li><a href="https://murilorgalvao.github.io/doctor-care/">Doctor Care</a></li>
-<ul>

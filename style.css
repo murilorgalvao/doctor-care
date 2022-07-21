@@ -495,10 +495,6 @@ footer .social-links {
     grid-area: B;
   }
 
-  section {
-    padding-block: 16rem;
-  }
-
   section header h2 {
     font-size: 4rem;
     line-height: 5.2rem;
@@ -704,10 +700,6 @@ footer .social-links {
 
   #about .col-a {
     align-self: center;
-  }
-
-  #about .content p {
-    margin-bottom: 0;
   }
 
   /*=== CONTACT =================================*/

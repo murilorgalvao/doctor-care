@@ -1,5 +1,9 @@
+const navigation = document.getElementById('navigation')
+
+// Ajuste de carregamento da função onScroll para que não ocorra erro de referência
 window.addEventListener('scroll', onScroll);
 
+// Quando carregar a página, executar a função onScroll. O objetivo da função é gerenciar os scrolls da página
 onScroll();
 function onScroll() {
   showNavOnScroll();
@@ -37,6 +41,7 @@ function activateMenuAtCurrentSection(section) {
   }
 }
 
+// A função tem como objetivo incluir a classe 'scroll' ao descer a rolagem da página
 function showNavOnScroll() {
   if (scrollY > 0) {
     navigation.classList.add('scroll');
@@ -45,6 +50,7 @@ function showNavOnScroll() {
   }
 }
 
+// A função tem como objetivo mostrar um botão para voltar ao início da página
 function showBackToTopButtonOnScroll() {
   if (scrollY > 550) {
     backToTopButton.classList.add('show');
@@ -53,10 +59,12 @@ function showBackToTopButtonOnScroll() {
   }
 }
 
+// A função será executada ao abrir o menu
 function openMenu() {
   document.body.classList.add('menu-expanded');
 }
 
+// A função será executada ao fechar o menu
 function closeMenu() {
   document.body.classList.remove('menu-expanded');
 }
